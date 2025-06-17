@@ -1,4 +1,4 @@
-# 🔷 Optimism Ecosystem Contribution Repository
+# Optimism Ecosystem Contribution Repository
 
 Welcome to the `optimism-ecosystem-contribution` repository!  
 This repo is designed for **short-term** tasks and insights related to the Optimism blockchain ecosystem.
