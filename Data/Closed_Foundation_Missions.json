@@ -1,0 +1,710 @@
+[
+  {
+    "Title":"Foundation Mission Request: AI Delegate Development [TECHNICAL]",
+    "Issue Link":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues\/277",
+    "Labels":"Foundation Mission Request",
+    "Label Links":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Foundation%20Mission%20Request%22"
+  },
+  {
+    "Title":"Foundation Mission Request: Votable Supply Framework [RESEARCH]",
+    "Issue Link":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues\/261",
+    "Labels":"Foundation Mission Request, Intent #1",
+    "Label Links":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Foundation%20Mission%20Request%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Intent%20#1%22"
+  },
+  {
+    "Title":"Research Assistance with stakeholder interviews [RESEARCH]",
+    "Issue Link":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues\/252",
+    "Labels":"Foundation Mission Request",
+    "Label Links":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Foundation%20Mission%20Request%22"
+  },
+  {
+    "Title":"Foundation Mission Request: Analysis of S6 Growth Grants [ANALYTICS]",
+    "Issue Link":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues\/244",
+    "Labels":"Foundation Mission Request",
+    "Label Links":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Foundation%20Mission%20Request%22"
+  },
+  {
+    "Title":"Foundation Mission Request S6 Mediation Mission [ABANDONED]",
+    "Issue Link":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues\/237",
+    "Labels":"Foundation Mission Request",
+    "Label Links":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Foundation%20Mission%20Request%22"
+  },
+  {
+    "Title":"Foundation Mission Request: SupNERD S6 [COMMUNITY OPERATIONS]",
+    "Issue Link":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues\/234",
+    "Labels":"Foundation Mission Request",
+    "Label Links":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Foundation%20Mission%20Request%22"
+  },
+  {
+    "Title":"Foundation Mission Request: TechNERDs Season 6 [COMMUNITY OPERATIONS]",
+    "Issue Link":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues\/232",
+    "Labels":"Foundation Mission Request",
+    "Label Links":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Foundation%20Mission%20Request%22"
+  },
+  {
+    "Title":"Delegate Mission Request: Sequencer commitment games",
+    "Issue Link":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues\/226",
+    "Labels":"Delegate Mission Request, Intent #3",
+    "Label Links":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Delegate%20Mission%20Request%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Intent%20#3%22"
+  },
+  {
+    "Title":"Delegate Mission Request: Open-source transaction simulator ",
+    "Issue Link":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues\/221",
+    "Labels":"Delegate Mission Request, Intent #3",
+    "Label Links":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Delegate%20Mission%20Request%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Intent%20#3%22"
+  },
+  {
+    "Title":"Delegate Mission Request: Grants Claiming Tool",
+    "Issue Link":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues\/205",
+    "Labels":"Delegate Mission Request, Intent #1",
+    "Label Links":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Delegate%20Mission%20Request%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Intent%20#1%22"
+  },
+  {
+    "Title":"Delegate Mission Request: Develop non-technical solutions for increasing both voter and token participation in the DAO ",
+    "Issue Link":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues\/203",
+    "Labels":"Delegate Mission Request, Intent #1",
+    "Label Links":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Delegate%20Mission%20Request%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Intent%20#1%22"
+  },
+  {
+    "Title":"Delegate Mission Request: Voting Analysis ",
+    "Issue Link":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues\/202",
+    "Labels":"Delegate Mission Request, Intent #1",
+    "Label Links":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Delegate%20Mission%20Request%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Intent%20#1%22"
+  },
+  {
+    "Title":"Delegate Mission Request: Cross Chain Voting ",
+    "Issue Link":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues\/199",
+    "Labels":"Delegate Mission Request, Intent #1",
+    "Label Links":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Delegate%20Mission%20Request%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Intent%20#1%22"
+  },
+  {
+    "Title":"Foundation Mission Request - Farcaster Attestations [TECHNICAL]",
+    "Issue Link":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues\/194",
+    "Labels":"Foundation Mission Request",
+    "Label Links":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Foundation%20Mission%20Request%22"
+  },
+  {
+    "Title":"Foundation Mission Request - Badgeholder onchain analysis [ANALYTICS]",
+    "Issue Link":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues\/191",
+    "Labels":"Foundation Mission Request",
+    "Label Links":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Foundation%20Mission%20Request%22"
+  },
+  {
+    "Title":"Foundation Mission Request: Evaluating Voting Design Tradeoffs for Retro Funding [RESEARCH]",
+    "Issue Link":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues\/188",
+    "Labels":"Foundation Mission Request, Intent #4",
+    "Label Links":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Foundation%20Mission%20Request%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Intent%20#4%22"
+  },
+  {
+    "Title":"Foundation Mission Request: Measuring the Concentration of Power in the Collective [RESEARCH]",
+    "Issue Link":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues\/183",
+    "Labels":"Intent: Governance Accessibility, Foundation Mission Request",
+    "Label Links":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Intent:%20Governance%20Accessibility%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Foundation%20Mission%20Request%22"
+  },
+  {
+    "Title":"Foundation Mission Request: GovNERD Maintainers [COMMUNITY OPERATIONS]",
+    "Issue Link":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues\/182",
+    "Labels":"Foundation Mission Request",
+    "Label Links":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Foundation%20Mission%20Request%22"
+  },
+  {
+    "Title":"Foundation Mission Request: Retro Funding 4 Voting UI [TECHNICAL]",
+    "Issue Link":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues\/173",
+    "Labels":"Foundation Mission Request",
+    "Label Links":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Foundation%20Mission%20Request%22"
+  },
+  {
+    "Title":"Foundation Mission Request: TechNERDs S5 [COMMUNITY OPERATIONS]",
+    "Issue Link":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues\/151",
+    "Labels":"Intent: Technical Decentralization, Foundation Mission Request",
+    "Label Links":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Intent:%20Technical%20Decentralization%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Foundation%20Mission%20Request%22"
+  },
+  {
+    "Title":"Foundation Mission Request: Visualize the Superchain [DESIGN]",
+    "Issue Link":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues\/150",
+    "Labels":"Foundation Mission Request",
+    "Label Links":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Foundation%20Mission%20Request%22"
+  },
+  {
+    "Title":"Delegate Mission Request: Delegation Quest SDK Mission Request",
+    "Issue Link":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues\/147",
+    "Labels":"Delegate Mission Request, Intent #4",
+    "Label Links":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Delegate%20Mission%20Request%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Intent%20#4%22"
+  },
+  {
+    "Title":"Delegate Mission Request: Governance Mentorship Program Mission Request",
+    "Issue Link":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues\/146",
+    "Labels":"Delegate Mission Request, Intent #4",
+    "Label Links":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Delegate%20Mission%20Request%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Intent%20#4%22"
+  },
+  {
+    "Title":"Delegate Mission Request: AI Assistant for governance support Mission Request",
+    "Issue Link":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues\/145",
+    "Labels":"Delegate Mission Request, Intent #4",
+    "Label Links":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Delegate%20Mission%20Request%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Intent%20#4%22"
+  },
+  {
+    "Title":"Delegate Mission Request: Integration of Optimism Gov and RGPF into University Courses,",
+    "Issue Link":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues\/144",
+    "Labels":"Delegate Mission Request, Intent #4",
+    "Label Links":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Delegate%20Mission%20Request%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Intent%20#4%22"
+  },
+  {
+    "Title":"Delegate Mission Request: Making Impact Evaluation Accessible",
+    "Issue Link":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues\/143",
+    "Labels":"Delegate Mission Request, Intent #4",
+    "Label Links":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Delegate%20Mission%20Request%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Intent%20#4%22"
+  },
+  {
+    "Title":"Delegate Mission Request: Building Identity - Driving Adoption of Attestations",
+    "Issue Link":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues\/142",
+    "Labels":"Delegate Mission Request, Intent #4",
+    "Label Links":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Delegate%20Mission%20Request%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Intent%20#4%22"
+  },
+  {
+    "Title":"Delegate Mission Request: Incentivize and increase governance participation",
+    "Issue Link":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues\/141",
+    "Labels":"Delegate Mission Request, Intent #4",
+    "Label Links":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Delegate%20Mission%20Request%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Intent%20#4%22"
+  },
+  {
+    "Title":"Delegate Mission Request: Create a grants Supertracker for the Optimism Collective and the Superchain",
+    "Issue Link":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues\/140",
+    "Labels":"Delegate Mission Request, Intent #4",
+    "Label Links":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Delegate%20Mission%20Request%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Intent%20#4%22"
+  },
+  {
+    "Title":"Delegate Mission Request: An Optimistic Future for Art",
+    "Issue Link":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues\/139",
+    "Labels":"Delegate Mission Request, Intent #3",
+    "Label Links":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Delegate%20Mission%20Request%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Intent%20#3%22"
+  },
+  {
+    "Title":"Delegate Mission Request: Deliver a Best-in-Class Perp Dex Mission Request",
+    "Issue Link":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues\/138",
+    "Labels":"Delegate Mission Request, Intent #3",
+    "Label Links":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Delegate%20Mission%20Request%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Intent%20#3%22"
+  },
+  {
+    "Title":"Delegate Mission Request: Incentivize Projects to Integrate the Farcaster Social Graph",
+    "Issue Link":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues\/137",
+    "Labels":"Delegate Mission Request, Intent #3",
+    "Label Links":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Delegate%20Mission%20Request%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Intent%20#3%22"
+  },
+  {
+    "Title":"Delegate Mission Request: Superchain Accounts",
+    "Issue Link":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues\/136",
+    "Labels":"Delegate Mission Request, Intent #3",
+    "Label Links":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Delegate%20Mission%20Request%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Intent%20#3%22"
+  },
+  {
+    "Title":"Delegate Mission Request: Advancing Optimism Anonymous Community and Governance Tooling",
+    "Issue Link":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues\/135",
+    "Labels":"Delegate Mission Request, Intent #3",
+    "Label Links":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Delegate%20Mission%20Request%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Intent%20#3%22"
+  },
+  {
+    "Title":"Delegate Mission Request: Scale ENS to Optimism",
+    "Issue Link":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues\/134",
+    "Labels":"Delegate Mission Request, Intent #3",
+    "Label Links":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Delegate%20Mission%20Request%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Intent%20#3%22"
+  },
+  {
+    "Title":"Delegate Mission Request: Layerwide new project support",
+    "Issue Link":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues\/133",
+    "Labels":"Delegate Mission Request, Intent #2",
+    "Label Links":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Delegate%20Mission%20Request%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Intent%20#2%22"
+  },
+  {
+    "Title":"Delegate Mission Request: Making Optimism a primary home of liquid staked eth",
+    "Issue Link":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues\/132",
+    "Labels":"Delegate Mission Request, Intent #2",
+    "Label Links":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Delegate%20Mission%20Request%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Intent%20#2%22"
+  },
+  {
+    "Title":"Delegate Mission Request: ZK Toolkit for ZK Application Developers",
+    "Issue Link":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues\/131",
+    "Labels":"Delegate Mission Request, Intent #2",
+    "Label Links":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Delegate%20Mission%20Request%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Intent%20#2%22"
+  },
+  {
+    "Title":"Delegate Mission Request: smart contract auditing services",
+    "Issue Link":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues\/130",
+    "Labels":"Delegate Mission Request, Intent #3",
+    "Label Links":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Delegate%20Mission%20Request%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Intent%20#3%22"
+  },
+  {
+    "Title":"Delegate Mission Request: Additional Revenue Sources to fund RetroPGF Rounds",
+    "Issue Link":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues\/129",
+    "Labels":"Delegate Mission Request, Intent #2",
+    "Label Links":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Delegate%20Mission%20Request%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Intent%20#2%22"
+  },
+  {
+    "Title":"Delegate Mission Request: Growth and experiments grants program mission request",
+    "Issue Link":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues\/128",
+    "Labels":"Delegate Mission Request, Intent #2",
+    "Label Links":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Delegate%20Mission%20Request%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Intent%20#2%22"
+  },
+  {
+    "Title":"Delegate Mission Request: Builders grants program mission request",
+    "Issue Link":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues\/127",
+    "Labels":"Delegate Mission Request, Intent #2",
+    "Label Links":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Delegate%20Mission%20Request%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Intent%20#2%22"
+  },
+  {
+    "Title":"Delegate Mission Request: Open Source OP Stack Developer Tooling",
+    "Issue Link":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues\/126",
+    "Labels":"Delegate Mission Request, Intent #1",
+    "Label Links":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Delegate%20Mission%20Request%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Intent%20#1%22"
+  },
+  {
+    "Title":"Delegate Mission Request: OP Stack Research and Implementation",
+    "Issue Link":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues\/125",
+    "Labels":"Delegate Mission Request, Intent #1",
+    "Label Links":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Delegate%20Mission%20Request%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Intent%20#1%22"
+  },
+  {
+    "Title":"Delegate Mission Request: Implement a Prototype of an OP Stack Chain with Mempool Encryption",
+    "Issue Link":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues\/124",
+    "Labels":"Delegate Mission Request, Intent #1",
+    "Label Links":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Delegate%20Mission%20Request%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Intent%20#1%22"
+  },
+  {
+    "Title":"Delegate Mission Request: Fraud Proof CTF Mission Request",
+    "Issue Link":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues\/123",
+    "Labels":"Delegate Mission Request, Intent #1",
+    "Label Links":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Delegate%20Mission%20Request%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Intent%20#1%22"
+  },
+  {
+    "Title":"Delegate Mission Request: Decentralized rollup-as-a-service",
+    "Issue Link":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues\/122",
+    "Labels":"Delegate Mission Request, Intent #1",
+    "Label Links":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Delegate%20Mission%20Request%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Intent%20#1%22"
+  },
+  {
+    "Title":"Delegate Mission Reques: Alternative CL\/EL Client Mission Request",
+    "Issue Link":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues\/121",
+    "Labels":"Delegate Mission Request, Intent #1",
+    "Label Links":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Delegate%20Mission%20Request%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Intent%20#1%22"
+  },
+  {
+    "Title":"Draft Project Idea: Impact Calculator 🌱",
+    "Issue Link":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues\/120",
+    "Labels":"Draft Project Idea",
+    "Label Links":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Draft%20Project%20Idea%22"
+  },
+  {
+    "Title":"Foundation Mission Request: Superchain Bridge [TECHNICAL]",
+    "Issue Link":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues\/117",
+    "Labels":"Foundation Mission Request",
+    "Label Links":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Foundation%20Mission%20Request%22"
+  },
+  {
+    "Title":"Foundation Mission Request: Superchain Safe [TECHNICAL]",
+    "Issue Link":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues\/116",
+    "Labels":"Foundation Mission Request",
+    "Label Links":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Foundation%20Mission%20Request%22"
+  },
+  {
+    "Title":"Foundation Mission Request: Proof of Attendance Testnet Faucet [TECHNICAL]",
+    "Issue Link":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues\/115",
+    "Labels":"Foundation Mission Request",
+    "Label Links":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Foundation%20Mission%20Request%22"
+  },
+  {
+    "Title":"Foundation Mission Request: Season 5 govNERDs ",
+    "Issue Link":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues\/114",
+    "Labels":"Intent: Governance Accessibility, Foundation Mission Request",
+    "Label Links":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Intent:%20Governance%20Accessibility%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Foundation%20Mission%20Request%22"
+  },
+  {
+    "Title":"Foundation Mission Request: Optimism Ecosystem Investment Network [ABANDONED]",
+    "Issue Link":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues\/110",
+    "Labels":"Intent: Governance Accessibility, Foundation Mission Request",
+    "Label Links":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Intent:%20Governance%20Accessibility%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Foundation%20Mission%20Request%22"
+  },
+  {
+    "Title":"Foundation Mission Request: GovNERD(s) [COMMUNITY OPERATIONS]",
+    "Issue Link":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues\/109",
+    "Labels":"Intent: Governance Accessibility, Foundation Mission Request",
+    "Label Links":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Intent:%20Governance%20Accessibility%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Foundation%20Mission%20Request%22"
+  },
+  {
+    "Title":"🔴 Ecosystem Project Idea: Voting Badge Attestation Visualizer",
+    "Issue Link":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues\/107",
+    "Labels":"Ecosystem Project Idea, Estimated Effort: Small, Tag: RetroPGF, Tag: Governance, Estimated Impact: Small",
+    "Label Links":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Ecosystem%20Project%20Idea%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Estimated%20Effort:%20Small%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Tag:%20RetroPGF%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Tag:%20Governance%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Estimated%20Impact:%20Small%22"
+  },
+  {
+    "Title":"Foundation Mission Request: RetroPGF List Creation UI [TECHNICAL]",
+    "Issue Link":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues\/106",
+    "Labels":"Intent: Governance Accessibility, Foundation Mission Request",
+    "Label Links":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Intent:%20Governance%20Accessibility%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Foundation%20Mission%20Request%22"
+  },
+  {
+    "Title":"📝 Draft Project Idea: RPGF Project Discovery",
+    "Issue Link":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues\/105",
+    "Labels":"Ecosystem Project Idea, Estimated Effort: Small, Tag: RetroPGF, Estimated Impact: Medium",
+    "Label Links":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Ecosystem%20Project%20Idea%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Estimated%20Effort:%20Small%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Tag:%20RetroPGF%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Estimated%20Impact:%20Medium%22"
+  },
+  {
+    "Title":"Foundation Mission Request: RetroPGF 3 Discovery & Voting [TECHNICAL]",
+    "Issue Link":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues\/104",
+    "Labels":"Intent: Governance Accessibility, Foundation Mission Request",
+    "Label Links":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Intent:%20Governance%20Accessibility%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Foundation%20Mission%20Request%22"
+  },
+  {
+    "Title":"🔴 Ecosystem Project Idea: Transaction Replay Tool",
+    "Issue Link":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues\/100",
+    "Labels":"Ecosystem Project Idea, Tag: Dev Tools, Estimated Effort: Medium, Estimated Impact: Large, Tag: Consumer Apps",
+    "Label Links":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Ecosystem%20Project%20Idea%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Tag:%20Dev%20Tools%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Estimated%20Effort:%20Medium%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Estimated%20Impact:%20Large%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Tag:%20Consumer%20Apps%22"
+  },
+  {
+    "Title":"🔴 Ecosystem Project Idea: Public OP Mainnet Network Health Dashboard",
+    "Issue Link":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues\/99",
+    "Labels":"Ecosystem Project Idea, Tag: OP Stack, Tag: Dev Tools, Estimated Effort: Medium, Estimated Impact: Large, Tag: Chain Infra, Tag: Consumer Apps",
+    "Label Links":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Ecosystem%20Project%20Idea%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Tag:%20OP%20Stack%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Tag:%20Dev%20Tools%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Estimated%20Effort:%20Medium%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Estimated%20Impact:%20Large%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Tag:%20Chain%20Infra%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Tag:%20Consumer%20Apps%22"
+  },
+  {
+    "Title":"🔴 Ecosystem Project Idea: OP Mainnet Resource Usage Tracker",
+    "Issue Link":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues\/98",
+    "Labels":"Ecosystem Project Idea, Tag: OP Stack, Tag: Dev Tools, Estimated Effort: Large, Estimated Impact: Medium",
+    "Label Links":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Ecosystem%20Project%20Idea%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Tag:%20OP%20Stack%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Tag:%20Dev%20Tools%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Estimated%20Effort:%20Large%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Estimated%20Impact:%20Medium%22"
+  },
+  {
+    "Title":"🔴 Ecosystem Project Idea: Real Time OP Mainnet Bridge Dashboard",
+    "Issue Link":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues\/97",
+    "Labels":"Ecosystem Project Idea, Tag: OP Stack, Tag: Dev Tools, Estimated Effort: Large, Estimated Impact: Large, Tag: Chain Infra, Tag: Consumer Apps",
+    "Label Links":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Ecosystem%20Project%20Idea%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Tag:%20OP%20Stack%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Tag:%20Dev%20Tools%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Estimated%20Effort:%20Large%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Estimated%20Impact:%20Large%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Tag:%20Chain%20Infra%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Tag:%20Consumer%20Apps%22"
+  },
+  {
+    "Title":"🧪 Mad Science Project Idea: Ultra Sound Money as an OP Stack Chain",
+    "Issue Link":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues\/96",
+    "Labels":"Tag: OP Stack, Estimated Effort: Large, Estimated Impact: Large, Mad Science Project Idea, Tag: Consumer Apps, Tag: Contracts",
+    "Label Links":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Tag:%20OP%20Stack%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Estimated%20Effort:%20Large%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Estimated%20Impact:%20Large%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Mad%20Science%20Project%20Idea%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Tag:%20Consumer%20Apps%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Tag:%20Contracts%22"
+  },
+  {
+    "Title":"🔴 Ecosystem Project Idea: Transaction Latency Testing Tool",
+    "Issue Link":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues\/95",
+    "Labels":"Ecosystem Project Idea, Tag: OP Stack, Tag: Dev Tools, Estimated Effort: Medium, Estimated Impact: Large, Tag: Consumer Apps",
+    "Label Links":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Ecosystem%20Project%20Idea%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Tag:%20OP%20Stack%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Tag:%20Dev%20Tools%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Estimated%20Effort:%20Medium%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Estimated%20Impact:%20Large%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Tag:%20Consumer%20Apps%22"
+  },
+  {
+    "Title":"🔴 Ecosystem Project Idea: Awesome Optimism Repository",
+    "Issue Link":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues\/94",
+    "Labels":"Ecosystem Project Idea, Estimated Effort: Medium, Estimated Impact: Large, Tag: Documentation",
+    "Label Links":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Ecosystem%20Project%20Idea%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Estimated%20Effort:%20Medium%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Estimated%20Impact:%20Large%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Tag:%20Documentation%22"
+  },
+  {
+    "Title":"🔴 Ecosystem Project Idea: Smart Contract Code Verifier",
+    "Issue Link":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues\/92",
+    "Labels":"Ecosystem Project Idea, Tag: OP Stack, Tag: Dev Tools, Estimated Effort: Large, Estimated Impact: XLarge, Tag: Contracts",
+    "Label Links":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Ecosystem%20Project%20Idea%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Tag:%20OP%20Stack%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Tag:%20Dev%20Tools%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Estimated%20Effort:%20Large%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Estimated%20Impact:%20XLarge%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Tag:%20Contracts%22"
+  },
+  {
+    "Title":"🔴 Ecosystem Project Idea: Attestation-Based Challenger",
+    "Issue Link":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues\/91",
+    "Labels":"Ecosystem Project Idea, Tag: OP Stack, Estimated Effort: Medium, Estimated Impact: Medium, Tag: Protocol",
+    "Label Links":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Ecosystem%20Project%20Idea%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Tag:%20OP%20Stack%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Estimated%20Effort:%20Medium%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Estimated%20Impact:%20Medium%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Tag:%20Protocol%22"
+  },
+  {
+    "Title":"🔴 Ecosystem Project Idea: Alternative Fault Detector",
+    "Issue Link":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues\/90",
+    "Labels":"Ecosystem Project Idea, Tag: OP Stack, Estimated Effort: Medium, Estimated Impact: Large, Tag: Chain Infra, Tag: Protocol",
+    "Label Links":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Ecosystem%20Project%20Idea%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Tag:%20OP%20Stack%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Estimated%20Effort:%20Medium%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Estimated%20Impact:%20Large%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Tag:%20Chain%20Infra%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Tag:%20Protocol%22"
+  },
+  {
+    "Title":"🧪 Mad Science Project Idea: L2Geth Revamp",
+    "Issue Link":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues\/88",
+    "Labels":"Tag: OP Stack, Estimated Effort: XLarge, Estimated Impact: Large, Mad Science Project Idea, Tag: Protocol",
+    "Label Links":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Tag:%20OP%20Stack%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Estimated%20Effort:%20XLarge%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Estimated%20Impact:%20Large%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Mad%20Science%20Project%20Idea%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Tag:%20Protocol%22"
+  },
+  {
+    "Title":"🔴 Ecosystem Project Idea: OP Stack Deployment UI",
+    "Issue Link":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues\/86",
+    "Labels":"Ecosystem Project Idea, Tag: OP Stack, Tag: Dev Tools, Estimated Effort: Large, Estimated Impact: XLarge, Tag: Chain Infra",
+    "Label Links":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Ecosystem%20Project%20Idea%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Tag:%20OP%20Stack%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Tag:%20Dev%20Tools%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Estimated%20Effort:%20Large%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Estimated%20Impact:%20XLarge%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Tag:%20Chain%20Infra%22"
+  },
+  {
+    "Title":"🔴 Ecosystem Project Idea: Optimism Resource Center",
+    "Issue Link":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues\/85",
+    "Labels":"Ecosystem Project Idea, Estimated Effort: Medium, Tag: RetroPGF, Estimated Impact: XLarge, Tag: Consumer Apps, Tag: Documentation",
+    "Label Links":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Ecosystem%20Project%20Idea%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Estimated%20Effort:%20Medium%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Tag:%20RetroPGF%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Estimated%20Impact:%20XLarge%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Tag:%20Consumer%20Apps%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Tag:%20Documentation%22"
+  },
+  {
+    "Title":"🔴 Ecosystem Project Idea: Community RPGF Signup Form ",
+    "Issue Link":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues\/84",
+    "Labels":"Ecosystem Project Idea, Estimated Effort: Small, Tag: RetroPGF, Tag: Governance, Estimated Impact: Medium",
+    "Label Links":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Ecosystem%20Project%20Idea%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Estimated%20Effort:%20Small%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Tag:%20RetroPGF%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Tag:%20Governance%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Estimated%20Impact:%20Medium%22"
+  },
+  {
+    "Title":"🔴 Ecosystem Project Idea: Simple Robust Self-Hosted RPC Proxy",
+    "Issue Link":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues\/83",
+    "Labels":"Ecosystem Project Idea, Tag: Dev Tools, Estimated Effort: Large, Estimated Impact: XLarge, Tag: Chain Infra",
+    "Label Links":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Ecosystem%20Project%20Idea%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Tag:%20Dev%20Tools%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Estimated%20Effort:%20Large%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Estimated%20Impact:%20XLarge%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Tag:%20Chain%20Infra%22"
+  },
+  {
+    "Title":"🧪 Mad Science Project Idea: Visalize OP Mainnet Transaction Flow",
+    "Issue Link":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues\/81",
+    "Labels":"Tag: Dev Tools, Estimated Effort: Large, Estimated Impact: Large, Mad Science Project Idea, Tag: Consumer Apps",
+    "Label Links":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Tag:%20Dev%20Tools%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Estimated%20Effort:%20Large%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Estimated%20Impact:%20Large%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Mad%20Science%20Project%20Idea%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Tag:%20Consumer%20Apps%22"
+  },
+  {
+    "Title":"🧪 Mad Science Project Idea: Simple Twitter with Attestations",
+    "Issue Link":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues\/79",
+    "Labels":"Tag: Attestations, Estimated Effort: Medium, Estimated Impact: Large, Mad Science Project Idea, Tag: Consumer Apps, Tag: Contracts",
+    "Label Links":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Tag:%20Attestations%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Estimated%20Effort:%20Medium%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Estimated%20Impact:%20Large%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Mad%20Science%20Project%20Idea%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Tag:%20Consumer%20Apps%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Tag:%20Contracts%22"
+  },
+  {
+    "Title":"Draft Project Idea: Quick calling L1 view functions from L2",
+    "Issue Link":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues\/77",
+    "Labels":"Tag: OP Stack, Estimated Effort: Medium, Draft Project Idea, Estimated Impact: Medium, Tag: Contracts, Tag: Protocol",
+    "Label Links":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Tag:%20OP%20Stack%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Estimated%20Effort:%20Medium%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Draft%20Project%20Idea%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Estimated%20Impact:%20Medium%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Tag:%20Contracts%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Tag:%20Protocol%22"
+  },
+  {
+    "Title":"Foundation Mission Request: Remote Static Call Proof of Concept [TECHNICAL]",
+    "Issue Link":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues\/76",
+    "Labels":"Intent: Technical Decentralization, Foundation Mission Request",
+    "Label Links":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Intent:%20Technical%20Decentralization%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Foundation%20Mission%20Request%22"
+  },
+  {
+    "Title":"Foundation Mission Request: L2 to L1 Message Relayer [TECHNICAL]",
+    "Issue Link":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues\/75",
+    "Labels":"Intent: Technical Decentralization, Foundation Mission Request",
+    "Label Links":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Intent:%20Technical%20Decentralization%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Foundation%20Mission%20Request%22"
+  },
+  {
+    "Title":"🔴 Ecosystem Project Idea: Liquidity Types Explainer",
+    "Issue Link":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues\/68",
+    "Labels":"Ecosystem Project Idea, Estimated Effort: Medium, Estimated Impact: Large, Tag: Consumer Apps, Tag: DeFi, Tag: Documentation",
+    "Label Links":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Ecosystem%20Project%20Idea%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Estimated%20Effort:%20Medium%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Estimated%20Impact:%20Large%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Tag:%20Consumer%20Apps%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Tag:%20DeFi%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Tag:%20Documentation%22"
+  },
+  {
+    "Title":"🔴 Ecosystem Project Idea: GitHub PR Attestation Bot",
+    "Issue Link":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues\/67",
+    "Labels":"Ecosystem Project Idea, Tag: Attestations, Tag: Dev Tools, Estimated Effort: Medium, Estimated Impact: Large, Tag: Contracts",
+    "Label Links":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Ecosystem%20Project%20Idea%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Tag:%20Attestations%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Tag:%20Dev%20Tools%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Estimated%20Effort:%20Medium%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Estimated%20Impact:%20Large%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Tag:%20Contracts%22"
+  },
+  {
+    "Title":"🔴 Ecosystem Project Idea: Audit Preparation Guide",
+    "Issue Link":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues\/66",
+    "Labels":"Ecosystem Project Idea, Estimated Effort: Large, Estimated Impact: XLarge, Tag: Contracts",
+    "Label Links":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Ecosystem%20Project%20Idea%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Estimated%20Effort:%20Large%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Estimated%20Impact:%20XLarge%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Tag:%20Contracts%22"
+  },
+  {
+    "Title":"🔴 Ecosystem Project Idea: List of Crypto Legal Public Goods",
+    "Issue Link":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues\/65",
+    "Labels":"Ecosystem Project Idea, Estimated Effort: Small, Tag: RetroPGF, Estimated Impact: Large, Tag: Governance",
+    "Label Links":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Ecosystem%20Project%20Idea%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Estimated%20Effort:%20Small%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Tag:%20RetroPGF%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Estimated%20Impact:%20Large%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Tag:%20Governance%22"
+  },
+  {
+    "Title":"Foundation Mission Request: Governor v2 Contract [TECHNICAL]",
+    "Issue Link":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues\/64",
+    "Labels":"Intent: Governance Accessibility, Foundation Mission Request",
+    "Label Links":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Intent:%20Governance%20Accessibility%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Foundation%20Mission%20Request%22"
+  },
+  {
+    "Title":"Foundation Mission Request: Leader Election Proof of Concept [TECHNICAL]",
+    "Issue Link":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues\/63",
+    "Labels":"Intent: Technical Decentralization, Foundation Mission Request",
+    "Label Links":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Intent:%20Technical%20Decentralization%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Foundation%20Mission%20Request%22"
+  },
+  {
+    "Title":"Foundation Mission Request: OP Stack Zero Knowledge Proof [ABANDONED]",
+    "Issue Link":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues\/61",
+    "Labels":"Intent: Technical Decentralization, Foundation Mission Request",
+    "Label Links":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Intent:%20Technical%20Decentralization%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Foundation%20Mission%20Request%22"
+  },
+  {
+    "Title":"Foundation Mission Request: Dynamic Delegate Attestations [TECHNICAL]",
+    "Issue Link":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues\/60",
+    "Labels":"Intent: Governance Accessibility, Foundation Mission Request",
+    "Label Links":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Intent:%20Governance%20Accessibility%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Foundation%20Mission%20Request%22"
+  },
+  {
+    "Title":"🔴 Ecosystem Project Idea: subDAO Primitive",
+    "Issue Link":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues\/57",
+    "Labels":"Ecosystem Project Idea, Estimated Effort: Medium, Estimated Impact: Large, Tag: Governance, Tag: Contracts",
+    "Label Links":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Ecosystem%20Project%20Idea%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Estimated%20Effort:%20Medium%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Estimated%20Impact:%20Large%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Tag:%20Governance%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Tag:%20Contracts%22"
+  },
+  {
+    "Title":"🔴 Ecosystem Project Idea: Superchain Superwallet",
+    "Issue Link":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues\/56",
+    "Labels":"Ecosystem Project Idea, Estimated Effort: XLarge, Estimated Impact: XLarge, Tag: Chain Infra, Tag: Consumer Apps, Tag: Wallets",
+    "Label Links":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Ecosystem%20Project%20Idea%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Estimated%20Effort:%20XLarge%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Estimated%20Impact:%20XLarge%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Tag:%20Chain%20Infra%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Tag:%20Consumer%20Apps%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Tag:%20Wallets%22"
+  },
+  {
+    "Title":"✨ Contribution Opportunity: Ensure generated CI mocks are up to date",
+    "Issue Link":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues\/54",
+    "Labels":"Tag: OP Stack, Estimated Effort: Small, Estimated Impact: Medium, Contribution Opportunity, Tag: Protocol",
+    "Label Links":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Tag:%20OP%20Stack%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Estimated%20Effort:%20Small%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Estimated%20Impact:%20Medium%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Contribution%20Opportunity%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Tag:%20Protocol%22"
+  },
+  {
+    "Title":"🔴 Ecosystem Project Idea: Generated Contract Docs",
+    "Issue Link":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues\/53",
+    "Labels":"Ecosystem Project Idea, Tag: Dev Tools, Estimated Effort: Medium, Estimated Impact: Large, Tag: Contracts",
+    "Label Links":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Ecosystem%20Project%20Idea%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Tag:%20Dev%20Tools%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Estimated%20Effort:%20Medium%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Estimated%20Impact:%20Large%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Tag:%20Contracts%22"
+  },
+  {
+    "Title":"🔴 Ecosystem Project Idea: OP Stack Chain Registry",
+    "Issue Link":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues\/47",
+    "Labels":"Ecosystem Project Idea, Estimated Effort: Small, Estimated Impact: Large, Tag: Chain Infra, Tag: Contracts",
+    "Label Links":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Ecosystem%20Project%20Idea%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Estimated%20Effort:%20Small%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Estimated%20Impact:%20Large%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Tag:%20Chain%20Infra%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Tag:%20Contracts%22"
+  },
+  {
+    "Title":"📝 Draft Project Idea: Stop Snoozing!",
+    "Issue Link":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues\/43",
+    "Labels":"Estimated Effort: Medium, Draft Project Idea, Tag: Consumer Apps, Estimated Impact: Medium",
+    "Label Links":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Estimated%20Effort:%20Medium%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Draft%20Project%20Idea%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Tag:%20Consumer%20Apps%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Estimated%20Impact:%20Medium%22"
+  },
+  {
+    "Title":"🔴 Ecosystem Project Idea: ATST Schema Reputation System",
+    "Issue Link":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues\/40",
+    "Labels":"Ecosystem Project Idea, Tag: Attestations, Estimated Effort: Large, Estimated Impact: XLarge",
+    "Label Links":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Ecosystem%20Project%20Idea%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Tag:%20Attestations%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Estimated%20Effort:%20Large%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Estimated%20Impact:%20XLarge%22"
+  },
+  {
+    "Title":"🔴 Ecosystem Project Idea: ATST Citizenship Algorithm",
+    "Issue Link":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues\/39",
+    "Labels":"Ecosystem Project Idea, Estimated Effort: Large, Estimated Impact: XLarge, Tag: Governance",
+    "Label Links":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Ecosystem%20Project%20Idea%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Estimated%20Effort:%20Large%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Estimated%20Impact:%20XLarge%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Tag:%20Governance%22"
+  },
+  {
+    "Title":"🔴 Ecosystem Project Idea: ATST Indexer",
+    "Issue Link":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues\/38",
+    "Labels":"Ecosystem Project Idea, Tag: Attestations, Estimated Effort: Large, Estimated Impact: XLarge",
+    "Label Links":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Ecosystem%20Project%20Idea%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Tag:%20Attestations%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Estimated%20Effort:%20Large%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Estimated%20Impact:%20XLarge%22"
+  },
+  {
+    "Title":"🔴 Ecosystem Project Idea: ATST Data Duplicator",
+    "Issue Link":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues\/37",
+    "Labels":"Ecosystem Project Idea, Tag: Attestations, Estimated Effort: Large, Estimated Impact: XLarge",
+    "Label Links":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Ecosystem%20Project%20Idea%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Tag:%20Attestations%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Estimated%20Effort:%20Large%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Estimated%20Impact:%20XLarge%22"
+  },
+  {
+    "Title":"🔴 Ecosystem Project Idea: TokenList.org-Style Attestation List",
+    "Issue Link":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues\/36",
+    "Labels":"Ecosystem Project Idea, Tag: Dev Tools, Estimated Effort: Large, Estimated Impact: XLarge",
+    "Label Links":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Ecosystem%20Project%20Idea%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Tag:%20Dev%20Tools%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Estimated%20Effort:%20Large%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Estimated%20Impact:%20XLarge%22"
+  },
+  {
+    "Title":"🔴 Ecosystem Project Idea: Embedded Gateway Widget",
+    "Issue Link":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues\/35",
+    "Labels":"Ecosystem Project Idea, Estimated Effort: Medium, Estimated Impact: Large, Tag: Consumer Apps",
+    "Label Links":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Ecosystem%20Project%20Idea%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Estimated%20Effort:%20Medium%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Estimated%20Impact:%20Large%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Tag:%20Consumer%20Apps%22"
+  },
+  {
+    "Title":"🔴 Ecosystem Project Idea: L2 NFT Gift Cards",
+    "Issue Link":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues\/34",
+    "Labels":"Ecosystem Project Idea, Estimated Effort: Large, Estimated Impact: Large, Tag: Consumer Apps",
+    "Label Links":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Ecosystem%20Project%20Idea%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Estimated%20Effort:%20Large%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Estimated%20Impact:%20Large%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Tag:%20Consumer%20Apps%22"
+  },
+  {
+    "Title":"🧪 Mad Science Project Idea: Bridge Lottery",
+    "Issue Link":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues\/31",
+    "Labels":"Estimated Effort: Medium, Mad Science Project Idea, Tag: Consumer Apps",
+    "Label Links":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Estimated%20Effort:%20Medium%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Mad%20Science%20Project%20Idea%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Tag:%20Consumer%20Apps%22"
+  },
+  {
+    "Title":"🧪 Mad Science Project Idea: Generalized \"Airline Miles\" Rollup",
+    "Issue Link":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues\/26",
+    "Labels":"Tag: OP Stack, Estimated Effort: XLarge, Mad Science Project Idea",
+    "Label Links":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Tag:%20OP%20Stack%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Estimated%20Effort:%20XLarge%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Mad%20Science%20Project%20Idea%22"
+  },
+  {
+    "Title":"🧪 Mad Science Project Idea: Prediction Market Framework for Everything",
+    "Issue Link":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues\/25",
+    "Labels":"Tag: OP Stack, Estimated Effort: XLarge, Mad Science Project Idea",
+    "Label Links":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Tag:%20OP%20Stack%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Estimated%20Effort:%20XLarge%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Mad%20Science%20Project%20Idea%22"
+  },
+  {
+    "Title":"🧪 Mad Science Project Idea: Onchain Movie",
+    "Issue Link":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues\/21",
+    "Labels":"Tag: OP Stack, Estimated Effort: Large, Mad Science Project Idea",
+    "Label Links":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Tag:%20OP%20Stack%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Estimated%20Effort:%20Large%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Mad%20Science%20Project%20Idea%22"
+  },
+  {
+    "Title":"🔴 Ecosystem Project Idea: Universal Message Passing Interface",
+    "Issue Link":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues\/18",
+    "Labels":"Ecosystem Project Idea, Tag: Dev Tools, Estimated Effort: Medium, Estimated Impact: XLarge",
+    "Label Links":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Ecosystem%20Project%20Idea%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Tag:%20Dev%20Tools%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Estimated%20Effort:%20Medium%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Estimated%20Impact:%20XLarge%22"
+  },
+  {
+    "Title":"🔴 Ecosystem Project Idea: Decentralized PGP Key Server",
+    "Issue Link":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues\/17",
+    "Labels":"Ecosystem Project Idea, Tag: Dev Tools, Estimated Effort: Medium, Estimated Impact: Large",
+    "Label Links":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Ecosystem%20Project%20Idea%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Tag:%20Dev%20Tools%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Estimated%20Effort:%20Medium%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Estimated%20Impact:%20Large%22"
+  },
+  {
+    "Title":"📝 Draft Project Idea: Impact Evaluation Indexer",
+    "Issue Link":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues\/16",
+    "Labels":"Estimated Effort: Large, Estimated Impact: Large, Draft Project Idea, Tag: Chain Infra",
+    "Label Links":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Estimated%20Effort:%20Large%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Estimated%20Impact:%20Large%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Draft%20Project%20Idea%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Tag:%20Chain%20Infra%22"
+  },
+  {
+    "Title":"🔴 Ecosystem Project Idea: Ecosystem Contributions Dashboard",
+    "Issue Link":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues\/12",
+    "Labels":"Ecosystem Project Idea, Estimated Effort: Medium, Tag: RetroPGF, Estimated Impact: Large, Tag: Meta",
+    "Label Links":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Ecosystem%20Project%20Idea%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Estimated%20Effort:%20Medium%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Tag:%20RetroPGF%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Estimated%20Impact:%20Large%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Tag:%20Meta%22"
+  },
+  {
+    "Title":"🔴 Ecosystem Project Idea: RetroPGF Dashboard",
+    "Issue Link":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues\/11",
+    "Labels":"Ecosystem Project Idea, Estimated Effort: Medium, Tag: RetroPGF, Estimated Impact: Large",
+    "Label Links":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Ecosystem%20Project%20Idea%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Estimated%20Effort:%20Medium%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Tag:%20RetroPGF%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Estimated%20Impact:%20Large%22"
+  },
+  {
+    "Title":"🔴 Ecosystem Project Idea: Global Passport NFT",
+    "Issue Link":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues\/10",
+    "Labels":"Ecosystem Project Idea, Tag: Attestations, Estimated Effort: Small",
+    "Label Links":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Ecosystem%20Project%20Idea%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Tag:%20Attestations%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Estimated%20Effort:%20Small%22"
+  },
+  {
+    "Title":"🔴 Ecosystem Project Idea: Deep Fake Protection System",
+    "Issue Link":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues\/9",
+    "Labels":"Ecosystem Project Idea, Tag: Attestations, Estimated Effort: Medium",
+    "Label Links":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Ecosystem%20Project%20Idea%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Tag:%20Attestations%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Estimated%20Effort:%20Medium%22"
+  },
+  {
+    "Title":"🔴 Ecosystem Project Idea: Attestation-Based Friending App",
+    "Issue Link":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues\/8",
+    "Labels":"Ecosystem Project Idea, Tag: Attestations, Estimated Effort: Medium, Tag: Consumer Apps",
+    "Label Links":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Ecosystem%20Project%20Idea%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Tag:%20Attestations%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Estimated%20Effort:%20Medium%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Tag:%20Consumer%20Apps%22"
+  },
+  {
+    "Title":"🔴 Ecosystem Project Idea: Attestation-Based Access Gating System",
+    "Issue Link":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues\/7",
+    "Labels":"Ecosystem Project Idea, Tag: Attestations, Tag: Dev Tools, Estimated Effort: Medium, Tag: Consumer Apps",
+    "Label Links":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Ecosystem%20Project%20Idea%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Tag:%20Attestations%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Tag:%20Dev%20Tools%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Estimated%20Effort:%20Medium%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Tag:%20Consumer%20Apps%22"
+  },
+  {
+    "Title":"🔴 Ecosystem Project Idea: Attestation-Based Dapp Rating System",
+    "Issue Link":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues\/6",
+    "Labels":"Ecosystem Project Idea, Tag: Attestations, Estimated Effort: Medium",
+    "Label Links":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Ecosystem%20Project%20Idea%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Tag:%20Attestations%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Estimated%20Effort:%20Medium%22"
+  },
+  {
+    "Title":"🔴 Ecosystem Project Idea: Events Ticketing Application",
+    "Issue Link":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues\/5",
+    "Labels":"Ecosystem Project Idea, Tag: Attestations, Estimated Effort: Medium, Tag: Consumer Apps",
+    "Label Links":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Ecosystem%20Project%20Idea%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Tag:%20Attestations%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Estimated%20Effort:%20Medium%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Tag:%20Consumer%20Apps%22"
+  },
+  {
+    "Title":"🔴 Ecosystem Project Idea: OP Mainnet Gas Fee Tracker",
+    "Issue Link":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues\/3",
+    "Labels":"Ecosystem Project Idea, Tag: Dev Tools, Estimated Effort: Large, Tag: Consumer Apps",
+    "Label Links":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Ecosystem%20Project%20Idea%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Tag:%20Dev%20Tools%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Estimated%20Effort:%20Large%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Tag:%20Consumer%20Apps%22"
+  },
+  {
+    "Title":"Foundation Mission Request: Code of Conduct Enforcement Solution [COMMUNITY OPERATIONS]",
+    "Issue Link":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues\/2",
+    "Labels":"Intent: Governance Accessibility, Foundation Mission Request",
+    "Label Links":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Intent:%20Governance%20Accessibility%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Foundation%20Mission%20Request%22"
+  },
+  {
+    "Title":"Foundation Mission Request: Collective Archive Maintenance [RESEARCH]",
+    "Issue Link":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues\/1",
+    "Labels":"Intent: Governance Accessibility, Foundation Mission Request",
+    "Label Links":"https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Intent:%20Governance%20Accessibility%22, https:\/\/github.com\/ethereum-optimism\/ecosystem-contributions\/issues?q=is%3Aissue+state%3Aclosed+label%3A%22Foundation%20Mission%20Request%22"
+  }
+]
