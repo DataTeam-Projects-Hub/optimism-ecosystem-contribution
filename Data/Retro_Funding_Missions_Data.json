@@ -1,0 +1,162 @@
+{
+  "Season 7 Overview": {
+    "Intro": "In 2025, Retro Funding will focus on data-driven impact measurement with a human-centered approach. These Missions aim to refine the ability to reward specific contributions before expanding to broader impact areas.",
+    "Mission Framework": "Retro Funding aligns with other token allocation programs within Optimism under a unified Mission Framework.",
+    "Evaluation Algorithm": "Includes both human qualitative and data-driven quantitative assessments. Selected by Citizens and evolves with feedback.",
+    "Measurement Date": "Monthly, starting February 2025.",
+    "Onchain Builders": {
+      "Expected Impact": "Drive cross-chain asset transfers, grow Superchain economy and interop adoption.",
+      "Budget": "Up to 8M OP",
+      "Eligibility": "Projects must deploy contracts on supported OP Chains. Factories attribute to deployer. Detailed criteria TBA.",
+      "Reward Topics": [
+        "Growth in Superchain adoption",
+        "High-quality onchain value",
+        "Interop support and adoption"
+      ]
+    },
+    "Dev Tooling": {
+      "Expected Impact": "Support builders in developing interop-compatible onchain applications.",
+      "Budget": "Up to 8M OP",
+      "Eligibility": "Projects with open-source packages verified on GitHub. Non-eligible: apps, APIs, hosting services.",
+      "Reward Topics": [
+        "Adoption by builders",
+        "Importance of tool",
+        "Interop features"
+      ]
+    }
+  },
+  "Dev Tooling Mission Details": {
+    "Timeline": "Feb 5 2013 July 31",
+    "Grant Delivery": "Monthly starting March",
+    "Application Periods": "Apply by monthly deadline",
+    "Budget": "Up to 8M OP",
+    "Eligibility": [
+      "Project must be on OP Atlas with verified GitHub repo.",
+      "Packages must be on npm/crates.io and attributed.",
+      "Must be Open Source with public GitHub history.",
+      "Imported by 3+ verified Superchain projects.",
+      "10+ dev engagement on GitHub (e.g., stars, forks)."
+    ],
+    "Reward Criteria": [
+      "Adoption by builders",
+      "Tool importance in development",
+      "Interop-supporting features"
+    ],
+    "Evaluation": "Powered by GitHub, npm, Crates, and onchain data."
+  },
+  "Onchain Builders Mission Details": {
+    "Timeline": "Feb 13 2013 July 31",
+    "Grant Delivery": "Monthly starting March",
+    "Budget": "Up to 8M OP",
+    "Eligibility": [
+      "Project must be on OP Atlas with contract verification.",
+      "Must deploy on supported OP Chains.",
+      "Factory contracts must be attributed to the factory deployer.",
+      "DeFi rewards: Require functioning DeFiLlama adapter.",
+      "AA rewards: Must be in BundleBear registry."
+    ],
+    "Reward Criteria": [
+      "Superchain adoption growth",
+      "High-quality onchain value (e.g., TVL)",
+      "Interop support and adoption"
+    ],
+    "Requirements": [
+      "1000+ transactions",
+      "420+ qualified addresses",
+      "10+ active days in last 180 days",
+      "Extra TVL rewards for $1M+ avg. TVL (DeFi only)"
+    ],
+    "Evaluation": "Powered by onchain data and Citizen feedback."
+  },
+  "Retro Funding 6: Governance": {
+    "Timeline": {
+      "Signup": "Oct 1 2013 Oct 14",
+      "Review": "Oct 14 2013 Oct 28",
+      "Voting": "Oct 31 2013 Nov 13",
+      "Results": "Post-voting"
+    },
+    "Scope": {
+      "Period": "Oct 2023 2013 Sept 18, 2024",
+      "Categories": {
+        "Infrastructure & Tooling": "Gov infra and tools for Token House, Citizens\u2019 House, Retro Funding.",
+        "Analytics": "Governance performance and transparency analytics.",
+        "Leadership": "Participation in councils, commissions, and core governance responsibilities."
+      }
+    },
+    "Budget": {
+      "Min": "1.1M OP",
+      "Max": "3.5M OP",
+      "Allocation": "Median of Citizens' votes"
+    },
+    "Exclusions": [
+      "Onboarding resources",
+      "Participation-only activities",
+      "Previously rewarded Season 4 leadership"
+    ]
+  },
+  "Retro Funding 5: OP Stack": {
+    "Timeline": {
+      "Signup": "Aug 22 2013 Sept 5",
+      "Review": "Sept 6 2013 Sept 20",
+      "Voting": "Sept 30 2013 Oct 14",
+      "Results": "Oct 21"
+    },
+    "Categories": {
+      "Ethereum Core": "Clients, testing, languages, and research for Ethereum core dev.",
+      "OP Stack R&D": "Protocol upgrades, VM, audits.",
+      "Tooling": "Deployment/testing infra, RaaS, tutorials, documentation."
+    },
+    "Budget": "8M OP",
+    "Ineligibility": [
+      "Non-core Monorepo contributions",
+      "Bug bounty submissions",
+      "Tools for app deployment (covered in Dev Tooling)",
+      "Non-OP Stack documentation"
+    ],
+    "Voting Design": "Group-based expert evaluation."
+  },
+  "Retro Funding 4: Onchain Builders": {
+    "Timeline": {
+      "Signup": "May 23 2013 June 6",
+      "Review": "June 6 2013 June 18",
+      "Voting": "June 27 2013 July 8",
+      "Results": "July 16"
+    },
+    "Reward Criteria": [
+      "Demand for Optimism blockspace",
+      "Repeat and high-trust user interactions",
+      "Open source licensing"
+    ],
+    "Eligibility": [
+      "Deployed on OP chains before April 1",
+      "420+ unique address interactions (Jan-May)",
+      "10+ active days (Jan-May)",
+      "Contract verified and GitHub-linked",
+      "KYC compliance and non-sanctioned region"
+    ],
+    "Budget": "10M OP",
+    "Voting": {
+      "Method": "Metrics-based",
+      "Notes": "Badgeholders select and weight metrics"
+    }
+  },
+  "RetroPGF 3": {
+    "Intro": "RetroPGF 3 will allocate 30M OP to reward impactful contributions to Optimism.",
+    "Rules": [
+      "No future promises or plans",
+      "No false or misleading claims",
+      "No discrimination or hateful content",
+      "No bribery or badgeholder contact",
+      "All applicants must pass KYC",
+      "Only Optimism-related contributions are allowed",
+      "No duplicate or spam applications"
+    ],
+    "Contribution Definition": "Work that provided measurable impact and required at least one hour.",
+    "Impact Statement": "Focus on clear, specific description of past impact (no jargon or future plans).",
+    "Funding Disclosure": {
+      "Required": "Report any OP tokens, grants, or donations received since June 1, 2022.",
+      "Governance Grants": "Must be labeled as 'Governance fund'"
+    },
+    "Budget": "30M OP"
+  }
+}
