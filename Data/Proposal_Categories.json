@@ -1,0 +1,118 @@
+[
+  {
+    "proposal_title":"Maintenance Upgrade: Absolute Prestate Updates for Isthmus Activation & Blob Preimage Fix",
+    "proposal_category":"Maintenance Upgrade"
+  },
+  {
+    "proposal_title":"Season 8 and 9: Budget Board Member Ratification",
+    "proposal_category":"Budget Board Ratification"
+  },
+  {
+    "proposal_title":"Upgrade Proposal #15: Isthmus Hard Fork",
+    "proposal_category":"Upgrade Proposals"
+  },
+  {
+    "proposal_title":"Upgrade Proposal #14: Isthmus L1 Contracts + MT-Cannon",
+    "proposal_category":"Upgrade Proposals"
+  },
+  {
+    "proposal_title":"Upgrade Proposal #13: OPCM and Incident Response improvements",
+    "proposal_category":"Upgrade Proposals"
+  },
+  {
+    "proposal_title":"Allow the Optimism Foundation to Stake a Portion of Sequencer ETH Through Season 8",
+    "proposal_category":"Sequencer Revenue"
+  },
+  {
+    "proposal_title":"Maintenance Upgrade: L1 Pectra Readiness",
+    "proposal_category":"Maintenance Upgrade"
+  },
+  {
+    "proposal_title":"Retro Funding S7 - Dev Tooling - Eval Algos",
+    "proposal_category":"Eval Algos"
+  },
+  {
+    "proposal_title":"Retro Funding S7 - Onchain Builders - Eval Algos",
+    "proposal_category":"Eval Algos"
+  },
+  {
+    "proposal_title":"Protocol Upgrade: Superchain Registry 2.0",
+    "proposal_category":"Upgrade Proposals"
+  },
+  {
+    "proposal_title":"Upgrade Proposal #11: Holocene Network Upgrade",
+    "proposal_category":"Upgrade Proposals"
+  },
+  {
+    "proposal_title":"Retro Funding: Dev Tooling Mission",
+    "proposal_category":"Mission Approval"
+  },
+  {
+    "proposal_title":"Retro Funding: Onchain Builders Mission",
+    "proposal_category":"Mission Approval"
+  },
+  {
+    "proposal_title":"Season 7: Intent Ratification",
+    "proposal_category":"Intent Ratification"
+  },
+  {
+    "proposal_title":"Retro Funding Round 6 - weighing the votes of Guest Voters",
+    "proposal_category":"Retro Funding Round 6"
+  },
+  {
+    "proposal_title":"Governor Update Proposal #3: Enable onchain treasury execution",
+    "proposal_category":"Upgrade Veto Proposals"
+  },
+  {
+    "proposal_title":"Protocol Upgrade #10: Veto #10",
+    "proposal_category":"Upgrade Veto Proposals"
+  },
+  {
+    "proposal_title":"Test Vote (Season 6)",
+    "proposal_category":"Test Proposals"
+  },
+  {
+    "proposal_title":"Ratification of Round 4 Profit Definition",
+    "proposal_category":"Intent Ratification"
+  },
+  {
+    "proposal_title":"Protocol Upgrade #9: Veto #9",
+    "proposal_category":"Upgrade Veto Proposals"
+  },
+  {
+    "proposal_title":"Governor Update Proposal #2: Improvements to advanced delegation allowance calculations: Veto #8",
+    "proposal_category":"Upgrade Veto Proposals"
+  },
+  {
+    "proposal_title":"Protocol Upgrade #8: Veto #7",
+    "proposal_category":"Upgrade Veto Proposals"
+  },
+  {
+    "proposal_title":"Protocol Upgrade #7: Veto #6",
+    "proposal_category":"Upgrade Veto Proposals"
+  },
+  {
+    "proposal_title":"Governor Upgrade #1: Improve advanced delegation voting",
+    "proposal_category":"Upgrade Veto Proposals"
+  },
+  {
+    "proposal_title":"Protocol Upgrade #6: Veto #4",
+    "proposal_category":"Upgrade Veto Proposals"
+  },
+  {
+    "proposal_title":"Protocol Upgrade #5: Veto #3",
+    "proposal_category":"Upgrade Veto Proposals"
+  },
+  {
+    "proposal_title":"Voting Cycle #18: Veto #2",
+    "proposal_category":"Upgrade Veto Proposals"
+  },
+  {
+    "proposal_title":"Voting Cycle #17: Veto #1",
+    "proposal_category":"Upgrade Veto Proposals"
+  },
+  {
+    "proposal_title":"Test Veto Vote",
+    "proposal_category":"Test Proposals"
+  }
+]
