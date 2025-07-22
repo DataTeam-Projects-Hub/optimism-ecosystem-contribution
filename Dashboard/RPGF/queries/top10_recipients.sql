@@ -1,5 +1,11 @@
-select distinct project_name, sum(op_reward) as total_grant_received from query_5505357
-where round = '{{Round}}'
-group by 1
-order by 2 desc
-limit 10
+SELECT DISTINCT 
+  project_name,
+  CASE 
+    WHEN '{{Round}}' = 'Round1' THEN CAST(SUM(op_reward) AS VARCHAR) || '$'
+    ELSE CAST(SUM(op_reward) AS VARCHAR) || ' OP'
+  END AS total_grant_received
+FROM query_5505357
+WHERE round = '{{Round}}'
+GROUP BY project_name
+-- ORDER BY 1, SUM(op_reward) DESC
+LIMIT 10;
